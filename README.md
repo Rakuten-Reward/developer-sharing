@@ -18,7 +18,7 @@ Presentations &amp; tech talks by engineers of Rakuten Reward group, weekly on T
 * [James Wyrio](https://github.com/JWiryo)
 * Khue, Nguyen Dac
 * [Quang Ha](https://github.com/quangDecember)
-* Rongxin Xia 
+* [Rongxin Xia](https://github.com/rongxin) 
 * Satoshi, Goto
 * Shauket, Muhammad
 * Siyun, Ai 
